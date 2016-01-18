@@ -1,4 +1,4 @@
-# export_ghIssues_to_csv
+# export_github_issues
 Export GitHub issues (python v3)
 
 An adaptation of @unbracketed Gist (https://gist.github.com/unbracketed/3380407)
